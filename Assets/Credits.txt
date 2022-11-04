@@ -1,0 +1,7 @@
+External Credits -
+
+Outline is from 'Quick Outline' on the Unity Asset Store.
+Link - https://assetstore.unity.com/packages/tools/particles-effects/quick-outline-115488
+
+Horror Props are from 'Horror School Props' on the Unity Asset Store.
+Link - https://assetstore.unity.com/packages/3d/props/furniture/horror-school-props-112589
